@@ -1,5 +1,5 @@
-/target
-/project
-/.idea
-
-
+*~
+*.class
+*.cache
+prog/target/
+prog/project/target/
