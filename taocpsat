@@ -1,0 +1,3 @@
+#!/bin/sh
+scala -J-Xmx1g -cp taocpsat-1.0.jar $*
+

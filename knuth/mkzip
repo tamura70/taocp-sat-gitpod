@@ -1,0 +1,13 @@
+#!/bin/sh
+cd ..
+rm taocpsat-knuth.zip
+zip -r taocpsat-knuth.zip \
+    knuth/compile.sh \
+    knuth/pdf \
+    knuth/sat-examples/README \
+    knuth/sat-examples/sources \
+    knuth/sat-life \
+    knuth/sat-solvers \
+    knuth/sgb
+
+    
