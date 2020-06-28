@@ -1,5 +1,6 @@
 *~
 *.class
+*.pyc
 *.cache
 prog/target/
 prog/project/target/
