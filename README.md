@@ -8,10 +8,15 @@
 - リポジトリ: <https://github.com/tamura70/taocp-sat-gitpod>
 - GitPod実行用URL: <https://gitpod.io/#https://github.com/tamura70/taocp-sat-gitpod>
 
-## 内容
+## ディレクトリ構成
 
 - `knuth/` : Knuth作のプログラムおよびドキュメント
+    - `knuth/install.pl` : Knuth作のプログラムおよびドキュメントの作成に用いたPerlスクリプト
     - `knuth/sat-examples/README` : README
     - `knuth/bin/` : SATソルバーなどの実行ファイル
     - `knuth/pdf/` : SATソルバーなどのプログラムのドキュメント
-- `prog/` : tamura作のプログラムなど
+- `prog/` : tamura70作のプログラムなど
+
+Knuth作のプログラムおよびドキュメントは，
+[KnuthのHP](https://www-cs-faculty.stanford.edu/~knuth/)
+からtamura70がダウンロードし，CWEBを用いてコンパイルした．
