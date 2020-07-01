@@ -19,4 +19,6 @@
 
 Knuth作のプログラムおよびドキュメントは，
 [KnuthのHP](https://www-cs-faculty.stanford.edu/~knuth/)
-からtamura70がダウンロードし，CWEBを用いてコンパイルした．
+からtamura70がダウンロードし，
+[CWEB](https://en.wikipedia.org/wiki/CWEB)
+を用いてコンパイルした．
