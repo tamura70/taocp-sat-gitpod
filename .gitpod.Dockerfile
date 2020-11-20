@@ -1,6 +1,7 @@
 FROM gitpod/workspace-full
 
-RUN brew install sbt scalaenv
+RUN brew install scalaenv
+# RUN brew install sbt
 
 RUN scalaenv install scala-2.12.5 && scalaenv global scala-2.12.5
 
