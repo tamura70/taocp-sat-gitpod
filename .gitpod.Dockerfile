@@ -1,4 +1,5 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace
+# FROM gitpod/workspace-full
 
 # Docker build does not rebuild an image when a base image is changed, increase this counter to trigger it.
 # ENV TRIGGER_REBUILD 2
